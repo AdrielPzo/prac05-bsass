@@ -1,0 +1,17 @@
+nav {
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: square;
+    }
+    li {
+      display: inline-block;
+      background-color: aquamarine;
+    }
+    a {
+        color: blueviolet;
+        display: block;
+        padding: 6px 12px;
+        text-decoration: none;
+    }
+  }         

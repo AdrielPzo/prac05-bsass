@@ -1,0 +1,12 @@
+html body,
+ul,
+ol {
+  margin: 1;
+  padding: 2;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  color: red;
+}/*# sourceMappingURL=style.css.map */
